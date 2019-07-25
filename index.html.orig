@@ -4,11 +4,11 @@
 
 		<body>
 
-
+<<<<<<< HEAD
 			This line is written by featureA
-
-			This line is written by featureB	
-
+=======
+		This line is written by featureB	
+>>>>>>> featureB
 
 		</body>
 
